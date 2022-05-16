@@ -23,7 +23,7 @@
     "@babel/preset-env": "^7.2.0",
     "@babel/preset-react": "^7.0.0",
     "@githubprimer/octicons-react": "^8.2.0",
-    "autoprefixer": "^7.1.6",
+    "autoprefixer": "^9.0.0",
     "babel-eslint": "^9.0.0",
     "babel-loader": "^8.0.4",
     "connect-sse": "^1.2.0",
